@@ -25,7 +25,7 @@ const Portfolio = () => {
 
           <div class="flex justify-center mt-7 cursor-pointer font-bold">
          
-          <a class="mr-0 hover:text-[red]" href="https://bethwel-dev.netlify.app/">Live Preview</a>
+          <a class="mr-0 hover:text-[red]" href="https://guestyrealestates.netlify.app/">Live Preview</a>
           <span class="mr-5 text-[1.7rem] "><MdOutlinePreview/></span>
               <a class="mr-2 hover:text-[red]" href="https://github.com/bethwel-developer/realestate-react-website">code</a> 
               <span class="text-[1.4rem]"> <BsGithub/></span>
