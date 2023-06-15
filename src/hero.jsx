@@ -1,15 +1,16 @@
 import React from 'react';
 import {BsGithub} from "react-icons/bs"
 import {IoLogoLinkedin,IoLogoCss3} from "react-icons/io"
-import {FaReact,FaNodeJs} from "react-icons/fa"
-import {SiTailwindcss,SiJavascript} from "react-icons/si"
+import {FaReact,FaNodeJs,FaPython} from "react-icons/fa"
+import {SiTailwindcss,SiJavascript,SiDjango} from "react-icons/si"
 import{AiFillHtml5} from "react-icons/ai"
+
 
 
 
 const Hero = () => {
   return (
-    <div class="mt-[140px] flex  justify-center gap-[3rem]">
+    <div class="mt-[140px] flex  justify-center ">
       <div class="">
         <h1 class="font-black text-[30px] ">Full-stack <br/>MERN developer. 👋</h1>
         <h1 class="mt-6">Hi, I'm Bethwel, Apassionate Full-stack web <br/> Developer based in Kenya.📍</h1>
@@ -31,9 +32,8 @@ const Hero = () => {
         <span class=" text-[yellow]"><SiJavascript/></span> 
         <span class=" text-[red]"><AiFillHtml5/></span> 
         <span class=" text-[blue]"><IoLogoCss3/></span> 
-
-        
-        
+        <span class=" text-black-600"> <SiDjango/></span> 
+        <span class=" text-green-600"><FaPython/></span> 
        
         
         
@@ -44,8 +44,8 @@ const Hero = () => {
       
       <div class="">
        <img class="overflow-hidden w-[80%] 
-       bg-[url(https://media.istockphoto.com/id/613531310/photo/young-and-handsome.jpg?s=612x612&w=0&k=20&c=RJVt3sQQ6uhh9JPSBjgTnnKrYlexIJHLsYMHOr_Dskg=)]  
-       bg-no-repeat bg-cover bg-center rounded-full" 
+       bg-[url('./pp1.jpeg')]  
+    bg-no-repeat bg-cover bg-center rounded-full" 
        src="https://i.pinimg.com/originals/2a/64/3f/2a643f4297a564369facc3fa70efff2f.gif" alt="" srcset="" />
       </div>
    </div>
