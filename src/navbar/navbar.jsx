@@ -13,9 +13,9 @@ const Navbar = () => {
 
 <div >
   <ul class="">
-  <a class="hover:text-[red]  mr-[39px]" href=" https://docdro.id/tS3sldD ">Download CV</a> 
+  <a class="hover:text-[red]  mr-[39px]" href="https://docdro.id/kQEg2XE">Download CV </a> 
 
-          <a class="hover:text-[red] mr-20" href='https://docdro.id/vyrLqi0'>Cover Letter</a> 
+          <a class="hover:text-[red] mr-20" href='https://docdro.id/mydEc3u'>Cover Letter</a> 
          
   </ul>
          
