@@ -6,11 +6,6 @@ const Navbar = () => {
           <div>
           <a class="font-extrabold cursor-pointer text-[19px] hover:text-[red] " href='/'>Bethwel-dev</a>
           </div>
-        
-
-          
-      
-
 <div >
   <ul class="">
   <a class="hover:text-[red]  mr-[39px]" href="https://docdro.id/kQEg2XE">Download CV </a> 
