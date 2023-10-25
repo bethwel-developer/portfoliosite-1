@@ -5,9 +5,6 @@ import {FaReact,FaNodeJs,FaPython} from "react-icons/fa"
 import {SiTailwindcss,SiJavascript,SiDjango} from "react-icons/si"
 import{AiFillHtml5} from "react-icons/ai"
 
-
-
-
 const Hero = () => {
   return (
     <div class="mt-[140px] flex  justify-center ">
@@ -20,6 +17,8 @@ const Hero = () => {
     <a class="cursor-pointer hover:text-red-600" href="https://github.com/bethwel-developer" ><BsGithub/></a> 
     <span class="cursor-pointer hover:text-red-600"><IoLogoLinkedin/>
 </span> 
+
+          
         </div>
 
         <div class="flex mt-[15rem] divide-x-4 divide-[red]">
@@ -34,10 +33,9 @@ const Hero = () => {
         <span class=" text-[blue]"><IoLogoCss3/></span> 
         <span class=" text-black-600"> <SiDjango/></span> 
         <span class=" text-green-600"><FaPython/></span> 
-       
-        
-        
         </span>
+
+
           
         </div>
       </div>
