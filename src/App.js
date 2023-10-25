@@ -12,10 +12,7 @@ function App() {
     <Aboutme/>
     <Portfolio/>
     <Contact/>
-
     </>
-  
-    
   );
 }
 
