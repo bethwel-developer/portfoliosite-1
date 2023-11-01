@@ -6,6 +6,7 @@ import {SiTailwindcss,SiJavascript,SiDjango} from "react-icons/si"
 import{AiFillHtml5} from "react-icons/ai"
 
 const Hero = () => {
+  
   return (
     <div class="mt-[140px] flex  justify-center ">
       <div class="">
@@ -17,11 +18,10 @@ const Hero = () => {
     <a class="cursor-pointer hover:text-red-600" href="https://github.com/bethwel-developer" ><BsGithub/></a> 
     <span class="cursor-pointer hover:text-red-600"><IoLogoLinkedin/>
 </span> 
-
-          
         </div>
 
         <div class="flex mt-[15rem] divide-x-4 divide-[red]">
+          
         <span class="mr-[20px] font-extrabold">tech stack</span>
         <span class="flex gap-[1.5rem] text-[1.8rem]">
         <span class=" ml-[2rem]"><BsGithub/></span> 
