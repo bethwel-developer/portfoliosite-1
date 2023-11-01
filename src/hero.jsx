@@ -6,6 +6,7 @@ import {SiTailwindcss,SiJavascript,SiDjango} from "react-icons/si"
 import{AiFillHtml5} from "react-icons/ai"
 
 const Hero = () => {
+
   
   return (
     <div class="mt-[140px] flex  justify-center ">
@@ -36,7 +37,6 @@ const Hero = () => {
         </span>
 
 
-          
         </div>
       </div>
       
@@ -48,6 +48,7 @@ const Hero = () => {
       </div>
    </div>
   )}
+
 
 
 export default Hero;
