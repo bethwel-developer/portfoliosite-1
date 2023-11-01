@@ -6,8 +6,6 @@ import {SiTailwindcss,SiJavascript,SiDjango} from "react-icons/si"
 import{AiFillHtml5} from "react-icons/ai"
 
 const Hero = () => {
-
-  
   return (
     <div class="mt-[140px] flex  justify-center ">
       <div class="">
@@ -45,6 +43,7 @@ const Hero = () => {
        bg-[url('./pp1.jpeg')]  
     bg-no-repeat bg-cover bg-center rounded-full" 
        src="https://i.pinimg.com/originals/2a/64/3f/2a643f4297a564369facc3fa70efff2f.gif" alt="" srcset="" />
+        
       </div>
    </div>
   )}
