@@ -2,11 +2,9 @@ import React from 'react';
 import {FaFacebook,FaTwitterSquare,FaLinkedin} from "react-icons/fa"
 import {AiFillGithub,AiFillInstagram} from "react-icons/ai"
 
-
-
-
 const Contact = () => {
   return (
+    
     <div class="flex justify-center mt-32">
       <div>
 <h1 class="mb-2 text-center font-extrabold">CONTACTS:</h1>
@@ -20,6 +18,8 @@ const Contact = () => {
           <a class="hover:text-[red]  mr-10" href='/home'><FaTwitterSquare/></a>
           <a class="hover:text-[red]  mr-10" href='/home'><FaLinkedin/></a>
      </div>
+
+        
   </div>
   </div>
   );
