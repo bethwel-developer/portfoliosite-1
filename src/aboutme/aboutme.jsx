@@ -1,11 +1,8 @@
 import React from 'react';
 import {FaQuoteLeft,FaQuoteRight} from "react-icons/fa"
 
-
 const Aboutme = () => {
   return (
-
-    
   <div class ="flex justify-center gap-[4rem] p-[10rem] font-sans">
       <div  class="w-[45%] ">        
         <img class="rounded-lg" src="https://rare-gallery.com/thumbs/5365780-work-computer-phone-code-book-plan-keys-table-lens-topdown-pen-paper-desk-office-floor-developer-dev-len-laptop-wood-creative-commons-images.jpg" alt="" srcset="" />
