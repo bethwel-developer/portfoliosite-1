@@ -8,6 +8,7 @@ import Portfolio from "./portfolio/portfolio";
 
 function App() {
   return (
+    
     <>
     <Navbar/>
     <Hero/>
