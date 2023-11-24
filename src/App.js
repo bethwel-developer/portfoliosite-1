@@ -5,6 +5,7 @@ import Hero from "./hero";
 import Navbar from "./navbar/navbar";
 import Portfolio from "./portfolio/portfolio";
 
+
 function App() {
   return (
     <>
