@@ -2,6 +2,7 @@ import React from 'react';
 import {FaQuoteLeft,FaQuoteRight} from "react-icons/fa"
 
 const Aboutme = () => {
+  
   return (
   <div class ="flex justify-center gap-[4rem] p-[10rem] font-sans">
       <div  class="w-[45%] ">        
