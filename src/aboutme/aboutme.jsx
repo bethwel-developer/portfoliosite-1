@@ -12,6 +12,7 @@ const Aboutme = () => {
           <p><FaQuoteLeft/> <span className="text-[red] text-[2rem]">Hi am Bethwel,</span><br/> a passionate FULL stack developer with a strong foundation in JavaScript and experience in building web applications. I specialize in creating responsive and interactive user interfaces using React.js and integrating them with backend APIs built with Node.js and Express.js.
 
       I am a firm believer in the importance of teamwork and effective communication. I enjoy collaborating with cross-functional teams, including designers, product managers, and fellow developers, to bring ideas to life and deliver successful projects.<FaQuoteRight/></p>
+
       </div>
     </div>
   );
